@@ -22,7 +22,7 @@ This is a responsive news web application that fetches the latest news articles 
 
 ## **Live Demo**
 
-👉 [A to Z live news Web Application(https://atozlive-news.netlify.app/)
+👉 [A to Z live news Web Application](https://atozlive-news.netlify.app/)
 
 ---
 
