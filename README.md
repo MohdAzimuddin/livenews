@@ -1,5 +1,3 @@
-# React + Vite
-
 # News Web Application
 
 This is a responsive news web application that fetches the latest news articles from the [NewsAPI](https://newsapi.org/). The app allows users to view articles in different categories, search for specific topics, and scroll through news cards that display relevant news content. It features smooth animations, an intuitive layout, and a scroll-up button for improved user experience.
@@ -19,6 +17,14 @@ This is a responsive news web application that fetches the latest news articles 
 - **Framer Motion**: For smooth scroll animations and transitions.
 - **CSS (with Media Queries)**: For styling and responsive design.
 - **JavaScript (ES6)**: For handling dynamic content fetching and interactions.
+
+---
+
+## **Live Demo**
+
+👉 [A to Z live news Web Application(https://atozlive-news.netlify.app/)
+
+---
 
 ## Installation 
 
@@ -72,13 +78,6 @@ To run this project locally, follow these steps:
 ### Responsiveness:
 - The app is responsive and adjusts its layout based on the screen size. The number of columns in the news card grid reduces on smaller screens, ensuring a clean and usable interface on mobile devices.
 
-## Screenshots
-
-### Desktop View
-![Desktop View](./images/desktopScreen.png)
-
-### Mobile View
-![Mobile View](./imsges/desktopScreen.png)
 
 ## Environment Variables
 
@@ -87,6 +86,15 @@ You need to obtain a NewsAPI key to use the API. You can sign up for a free API 
 Once you have the API key, you can set it in the `.env` file in the root directory:
 
 
- ### Live Demo
-News Web Application Live Demo (Replace with your deployed URL)
 
+---
+
+## **Contact**
+
+- **Developer:** Mohd Azimuddin  
+- **Email:** [sfsuper2020@gmail.com]  
+- **GitHub:** [https://github.com/Mohd Azimuddin](https://github.com/MohdAzimuddin)  
+
+Feel free to reach out with feedback, questions, or collaboration ideas!
+
+---
